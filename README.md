@@ -20,33 +20,34 @@ TO CONDUCT COMPRIHENSIVE ANALYSIS OF BLINKIT'S SALES PERFORMANCE,CUSTOMER SATISF
 4. Average Rating : The avg customer rating for items sold.
 # - CHART'S  REQUIREMENTS
 1. Total Sales of Fat Content :
-   Objective - Analyze the impact of fat content on total sales.
-   Additional kpi metrics - access how to other KPIs (avg sales,number of items,avg rating)vary with fat content.
-   Chart Type - Donut Chart
+Objective - Analyze the impact of fat content on total sales.
+Additional kpi metrics - access how to other KPIs (avg sales,number of items,avg rating)vary with fat content.
+Chart Type - Donut Chart.
+
 2. Total Sales by Item Type :
-   Objective - Identify the performance off different item type in  terms of total sales.
-   Additional kpi metrics - Acceess how other KPIs(avg sales,number of items,avg rating)vary with fat content.
-   Chart Type - Column Chart
-2. Total Sales by Item Type :
-   Objective - Identify the performance off different item type in  terms of total sales.
-   Additional kpi metrics - Acceess how other KPIs(avg sales,number of items,avg rating)vary with fat content.
-   Chart Type - Column Chart
+Objective - Identify the performance off different item type in  terms of total sales.
+Additional kpi metrics - Acceess how other KPIs(avg sales,number of items,avg rating)vary with fat content.
+Chart Type - Column Chart.
+
 3. Fat Contant by Outlet for Totalsales :
-   Objective - Compare total sales acoss different outlets segmented by fat content.
-   Additional kpi metrics - Acceess how other KPIs(avg sales,number of items,avg rating)vary with fat content.
-   Chart Type - Stacked Column Chart
+Objective - Compare total sales acoss different outlets segmented by fat content.
+Additional kpi metrics - Acceess how other KPIs(avg sales,number of items,avg rating)vary with fat content.
+Chart Type - Stacked Column Chart
+
 4. Total Sales by Outlet  Establishment :
-   Objective - Eveluate how the age or type of outlet establishment  influences total sales.
-   Chart Type - Line Chart
+Objective - Eveluate how the age or type of outlet establishment  influences total sales.
+Chart Type - Line Chart
+
 5. Sales by Outlet Size :
-   Objective - Analyze the corelation between outlet size and total sales.
-   Chart Type - Donut/pie Chart
+Objective - Analyze the corelation between outlet size and total sales.
+Chart Type - Donut/pie Chart
+
 6. Sales by Outlet Location :
-   Objective - Access the geographic distribution of sales across different locations.
-   Chart Type - Funnel Map.
+ Objective - Access the geographic distribution of sales across different locations.
+ Chart Type - Funnel Map.
 7. Matrics by Outlet Type :
-   Objective - Provide a comprehansive view of all key metrics(Total sales,avg sales,number of items,avg rating) broken down by different     outlet types.
-   Chart Type - Matrix Card..
+ Objective - Provide a comprehansive view of all key metrics(Total sales,avg sales,number of items,avg rating) broken down by different     outlet types.
+ Chart Type - Matrix Card..
    
    
    
