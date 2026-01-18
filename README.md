@@ -11,9 +11,13 @@
   - Charts Develoment and Formatting
   - Dashboard / Report Development
   - Insight Generetion
+    
 **BUSINESS REQUIREMENT**
+
 TO CONDUCT COMPRIHENSIVE ANALYSIS OF BLINKIT'S SALES PERFORMANCE,CUSTOMER SATISFACTION AND INVENTORY DISTRIBUTION TO IDENTIFY KEY INSIGHTS AND OPPERTUNITIES FOR OPTIMIZATION USING VARIOUS KPI'S AND VISULIZATIONS IN POWERBI.
+
 **- KPI'S REQUIREMENTS**
+
 1. **Total Sales** : The overall revenue generated from all items sold.
 
 2. **Average Sales** : The avg revenue  per sale.
